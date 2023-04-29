@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
 
-####  🎨 Degign
+####  🎨 Design
 
 <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>     <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
 
