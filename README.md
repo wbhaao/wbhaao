@@ -4,11 +4,9 @@
 
 ## 🚀 About Me
 
-🔭 I'm currently studying at **BSSM**
+🔭 저는 지금 **부산소프트웨어마이스터고**에 재학중입니다
     
-🌱 I'm currently learning **ROS**
-
-📫 How to reach me: [your-email@example.com]
+🌱 저는 지금 **ROS**를 공부하고 있습니다
     
 ⚡ Fun fact: [Interesting fact about you]
 
