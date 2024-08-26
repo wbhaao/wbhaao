@@ -1,4 +1,4 @@
-<h3 align="center">A Embedded Developer from South Korea</h3>
+<h3 align="center">Embedded Developer</h3>
 
 <br/>
 
