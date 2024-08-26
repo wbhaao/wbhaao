@@ -2,9 +2,6 @@
 
 <br/>
 
-
-<div style="display: flex; justify-content: space-around;">
- <span>
 ## 🚀 About Me
 
 🔭 I'm currently studying at **BSSM**
@@ -14,12 +11,8 @@
 📫 How to reach me: [your-email@example.com]
     
 ⚡ Fun fact: [Interesting fact about you]
-</span>
-<span>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongwook7)](https://solved.ac/wbhaao/)
 
-</span>
-</div>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlflon11)](https://solved.ac/dlflon11/)
 
 <div align="center">
   <br>
